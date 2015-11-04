@@ -1,5 +1,5 @@
-heading
+heading 1
 
-para
+para 1
 
-footer
+footer 1
