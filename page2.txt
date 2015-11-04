@@ -1,5 +1,0 @@
-heading 2
-
-para 2
-
-footer 2
